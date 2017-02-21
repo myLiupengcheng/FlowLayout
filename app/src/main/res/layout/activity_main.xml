@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <com.liusuansuan.flowlayout.view.FlowLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="3dp"
+        android:padding="10dip"
+        android:background="@drawable/bg"
+        >
+
+        <TextView
+            style="@style/TextViewStyle"
+            android:text="Android" />
+
+        <TextView
+            style="@style/TextViewStyle"
+            android:text="HTML" />
+
+
+        <TextView
+            style="@style/TextViewStyle"
+            android:text="ios" />
+
+        <TextView
+            style="@style/TextViewStyle"
+            android:text="c,c++" />
+
+        <TextView
+            style="@style/TextViewStyle"
+            android:text="Java EE," />
+
+        <TextView
+            style="@style/TextViewStyle"
+            android:text="C#" />
+
+        <TextView
+            style="@style/TextViewStyle"
+            android:text="JavaScript" />
+
+        <TextView
+            style="@style/TextViewStyle"
+            android:text="Node js" />
+
+        <TextView
+            style="@style/TextViewStyle"
+            android:text="bitmap showaing" />
+
+        <TextView
+            style="@style/TextViewStyle"
+            android:text="JavaScript" />
+
+
+        <TextView
+            style="@style/TextViewStyle"
+            android:text="c,c++" />
+
+        <TextView
+            style="@style/TextViewStyle"
+            android:text="bitmap showaing" />
+
+        <TextView
+            style="@style/TextViewStyle"
+            android:text="JavaScript" />
+
+
+        <TextView
+            style="@style/TextViewStyle"
+            android:text="c,c++" />
+
+    </com.liusuansuan.flowlayout.view.FlowLayout>
+
+</RelativeLayout>
